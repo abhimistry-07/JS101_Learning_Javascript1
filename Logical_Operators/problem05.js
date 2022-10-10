@@ -2,7 +2,7 @@
 
 let day = "sun" ;
 
-switch (day) ={
+switch (day) {
   case "sun" : console.log("Sunday");
     break;
   case "mon" : console.log("Monday");
@@ -18,5 +18,5 @@ switch (day) ={
   case "sat" : console.log("Saturday");
     break;
   default : console.log("Wrong Input");  
-    break;
+    
 }
