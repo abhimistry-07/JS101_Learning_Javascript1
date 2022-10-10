@@ -1,11 +1,11 @@
 var name = "Abhishek";
 console.log(name);
 
-var fathers name = "Mayurbhai";
-console.log(fathers name);
+var fathers_name = "Mayurbhai";
+console.log(fathers_name);
 
-var mothers name = "Prernaben";
-console.log(mothers name);
+var mothers_name = "Prernaben";
+console.log(mothers_name);
 
 
 
