@@ -1,10 +1,7 @@
 let name = "Abhishek";
 let age = 22;
 console.log(name, age);
-
-var nametype = "String";
-let agetype = "Number";
-console.log(nametype, agetype)
+console.log(typeof name, typeof age);
 
 
 
